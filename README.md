@@ -10,25 +10,8 @@ Download link:
 
 
 ### Giao diện Shop: Tìm kiếm, thêm sản phẩm vào giỏ hàng, xem chi tiết sản phẩm, số lượng tăng giảm tùy thích, địa chỉ, xem trạng thái mua hàng
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/34dfe4b5-dd16-483d-9eda-159812b3f164" width="45%" />
-  <img src="https://github.com/user-attachments/assets/d3608cb2-d505-4fd1-81dd-6299fa626bbe" width="45%" />
-</p>
+![image](https://github.com/user-attachments/assets/067e0704-403c-4cee-8753-24e22b56f045)
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/76b61a1a-1543-421c-b188-1aa142750975" width="45%" />
-  <img src="https://github.com/user-attachments/assets/02fade2f-b0c7-4009-9abc-b732287b6178" width="45%" />
-</p>
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/6a9a6f86-f94b-4721-bc7b-664cf42beda6" width="45%" />
-  <img src="https://github.com/user-attachments/assets/5472d335-1fa9-4c3b-bfcc-c3b08199d26c" width="45%" />
-</p>
-
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/257c72eb-a8d3-4fbb-ac06-a8f4db0e6fb9" width="45%" />
-  <img src="https://github.com/user-attachments/assets/e492bc7f-c01b-46cb-bf50-fb6a809152c4" width="45%" />
-</p>
 
 ### Thay đổi thông tin hình ảnh tên
 <p float="left">
