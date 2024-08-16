@@ -4,9 +4,11 @@ LonelyShop là shop bán đồ thương hiệu có thể là thời trang, nội
 Download link: 
 
 #Ảnh demo 
-### Về chức năng đăng nhập cho người dùng.... Đăng kí, đăng nhập, đăng xuất, quên mật khẩu .![image](https://github.com/user-attachments/assets/b85c46b8-93e7-49b4-862d-7abd6bc1db41)
+### Về chức năng đăng nhập cho người dùng.... Đăng kí, đăng nhập, đăng xuất, quên mật khẩu .
+![image](https://github.com/user-attachments/assets/b85c46b8-93e7-49b4-862d-7abd6bc1db41)
 ![image](https://github.com/user-attachments/assets/94c58bb3-b706-4834-82b2-999a42c641db)
-![image](https://github.com/user-attachments/assets/74b8fe11-7c6c-4572-8f77-ef8a82a651b5)![image](https://github.com/user-attachments/assets/32e20b11-dd2f-40f7-be03-9ce24a076af0)
+![image](https://github.com/user-attachments/assets/74b8fe11-7c6c-4572-8f77-ef8a82a651b5)
+![image](https://github.com/user-attachments/assets/32e20b11-dd2f-40f7-be03-9ce24a076af0)
 ### Giao diện Shop( tìm kiếm, thêm sản phẩm vào giỏ hàng, xem chi tiết sản phẩm, số lượng tăng giảm tùy thích, địa chỉ, xem trạng thái mua hàng)
 ![image](https://github.com/user-attachments/assets/34dfe4b5-dd16-483d-9eda-159812b3f164)![image](https://github.com/user-attachments/assets/d3608cb2-d505-4fd1-81dd-6299fa626bbe)
 ![image](https://github.com/user-attachments/assets/76b61a1a-1543-421c-b188-1aa142750975)![image](https://github.com/user-attachments/assets/02fade2f-b0c7-4009-9abc-b732287b6178)
