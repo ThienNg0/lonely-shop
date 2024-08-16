@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "572395027148",
+    "project_id": "lonelyshop-96faa",
+    "storage_bucket": "lonelyshop-96faa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572395027148:android:b10872b96e6787ac6ae069",
+        "android_client_info": {
+          "package_name": "com.example.lonelyshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1gSizxoUYA-PsuIZJ8ff_hr0hcH7irdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

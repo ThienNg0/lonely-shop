@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LonelyShop</string>
+    <string name="rightAddress">The Right Address\nFor Shopping\nAnyday</string>
+    <string name="quality">It is now very easy to reach\nbest quality among the\nproducts on the internet</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="g_search_now">Search Now</string>
+    <string name="g_cancel">Cancel</string>
+    <string name="g_categories">Categories</string>
+
+</resources>
