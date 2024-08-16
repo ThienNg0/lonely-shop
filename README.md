@@ -6,15 +6,8 @@ Download link:
 # Ảnh demo
 
 ### Về chức năng đăng nhập cho người dùng: Đăng ký, đăng nhập, đăng xuất, quên mật khẩu
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/b85c46b8-93e7-49b4-862d-7abd6bc1db41" width="45%" />
-  <img src="https://github.com/user-attachments/assets/94c58bb3-b706-4834-82b2-999a42c641db" width="45%" />
-</p>
+![image](https://github.com/user-attachments/assets/a10efc6b-9788-49db-a5ac-884ea06d67e6)
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/74b8fe11-7c6c-4572-8f77-ef8a82a651b5" width="45%" />
-  <img src="https://github.com/user-attachments/assets/32e20b11-dd2f-40f7-be03-9ce24a076af0" width="45%" />
-</p>
 
 ### Giao diện Shop: Tìm kiếm, thêm sản phẩm vào giỏ hàng, xem chi tiết sản phẩm, số lượng tăng giảm tùy thích, địa chỉ, xem trạng thái mua hàng
 <p float="left">
