@@ -1,5 +1,5 @@
 # LonelyShop
-LonelyShop là shop bán đồ thương hiệu có thể là thời trang, nội thất, vv... Đưa sản phẩm lên cho người dùng đặt hàng như Shopee.
+LonelyShop là shop bán đồ thương hiệu có thể là thời trang, nội thất, vv... Đưa sản phẩm lên cho người dùng đặt hàng.
 
 Download link: https://www.mediafire.com/file/6srq5j71bfjl0b7/LonelyShop.apk/file 
 
